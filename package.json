@@ -1,0 +1,17 @@
+{
+  "name": "iguess-api-payment",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "8.2.0"
+  },
+  "author": "{{Lucas Alves L.A.}}",
+  "dependencies": {
+    "iguess-api-coincidents": "git+https://github.com/LuhalvesBR/iGuess-API-Coincidents.git",
+    "moip-sdk-node": "^1.0.0-beta"
+  }
+}
