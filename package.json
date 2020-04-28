@@ -11,7 +11,14 @@
   },
   "author": "{{Lucas Alves L.A.}}",
   "dependencies": {
+    "bcrypt": "^1.0.3",
+    "boom": "^4.2.0",
+    "hapi": "^16.6.0",
+    "hapi-pino": "^2.2.0",
     "iguess-api-coincidents": "git+https://github.com/LuhalvesBR/iGuess-API-Coincidents.git",
-    "moip-sdk-node": "^1.0.0-beta"
+    "joi": "^10.1.0",
+    "moip-sdk-node": "^1.0.0-beta",
+    "moment": "^2.20.1",
+    "pg": "^7.4.1"
   }
 }

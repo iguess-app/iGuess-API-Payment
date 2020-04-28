@@ -1,0 +1,5 @@
+[Gateway - Payment] Criar createCustomer e adicionar dados do usuário no SQL e para o Moip
+[Gateway - Payment] Criar addCreditCard e enviar para o Moip e guardar moipHash e dados do cartao cifrado no SQL  
+[Guess - Payment] Criar comprarGuessLine
+[Guess - Payment] Criar comprarGuessLeague
+[??????? - Payment] Criar refund
